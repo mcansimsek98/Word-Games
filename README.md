@@ -1,4 +1,4 @@
-# Word-Games
+# Word Games
 
 This app is a word game with hints made without using a storyboard. In order to level up in the game, a certain score must be reached. In the wrong words, a warning is received and asked to be done again.
 
